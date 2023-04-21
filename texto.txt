@@ -1,0 +1,6 @@
+control + ñ  --terminal
+
+inicializar repo local
+git init
+enter
+git status
